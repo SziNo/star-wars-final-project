@@ -1,0 +1,7 @@
+export * from './SinglePageDetails'
+export * from './SingleEpisodeDetail'
+export * from './SingleCharacterDetail'
+export * from './SinglePlanetDetails'
+export * from './SingleSpecieDetails'
+export * from './SingleVehicleDetails'
+export * from './SingleStarshipDetails'

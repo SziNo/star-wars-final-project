@@ -1,14 +1,8 @@
-# How to use this repo
+## Stacks
 
-- make a fork of this repo
-- clone your own repo to your local machine and open it in VS Code
-- you can find a task description in this project issues
-- don't forget to install dependecies: `yarn install`
-- don't forget to start the server run the command `yarn run devServer`
-- create a separate branch and make your task
-- when you finish a task commit your changes and push your branch
-- make a merge request to `main` branch in a web
-- when mentor see your results he will give a feedback for your work. He could also leave comments in your merge request
-- if you need to make changes do it :). After that push into current branch. Merge request will be updated automatically. Notify you mentor again.
+React, Tailwind CSS RTK Query and Framer Motion.
 
-Good Luck! )
+## Description
+
+This Star Wars React project is a practice project that uses the RTK Query library to fetch and display data from the premade SW json db file. 
+It showcases how to implement features like data prefetching, getting metada from headers, using mutation function with Formik, pagination, accordions and many more!
